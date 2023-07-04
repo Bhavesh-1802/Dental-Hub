@@ -3,7 +3,7 @@
 contributor : <br />
 &nbsp;&nbsp;&nbsp;&nbsp; [BHAVESH MEHTA]             ]
 <br />
-<p><h1> A Medical Centre Management Application </h1></p>
+<p><h1> Dentist  Management Application </h1></p>
 
 <p> <p><h3> Work completed : </h3><p>This is an android application designed to fulfill the needs of appointment booking and other medical services. </p>
 This app contains user authentication service from firebase , Booking Service with different timing slots and successful notification upon booking. The contact us page takes directly to the email app.

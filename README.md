@@ -1,7 +1,7 @@
-# DocCare
+# Dental-Hub
 
-2 contributors : <br />
-&nbsp;&nbsp;&nbsp;&nbsp; [Riya panwar]             ]
+contributor : <br />
+&nbsp;&nbsp;&nbsp;&nbsp; [BHAVESH MEHTA]             ]
 <br />
 <p><h1> A Medical Centre Management Application </h1></p>
 
